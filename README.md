@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá, meu nome é Miguel Henrique.
+Tenho 15 anos e estudo na escola Ernani Rodrigues, em Assis-São Paulo. 
 
 <!--
 **MHPG1C24/MHPG1C24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
